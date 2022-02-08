@@ -1,0 +1,8 @@
+Créé un fichier params.php qui comprend les variables suivante avec les informations nécessaires afin de permettre la connexion :
+<?php
+
+    $servername = ""; #Contient le nom du serveur
+    $dbname = ""; #Contient le nom de la BD
+    $dbuser = ""; #Contient le nom de l'utilisateur
+    $dbpassword = ""; #Contient le mot de passe de l'utilisateur BD
+?>
