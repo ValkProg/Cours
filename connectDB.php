@@ -1,6 +1,7 @@
 <?php
 
   require('params.php');
+  #Voir README
 
 try {
   $bddConnect = new PDO("mysql:host=".$servername.";dbname=".$dbname, $dbuser, $dbpassword);
